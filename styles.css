@@ -1,3 +1,7 @@
 p {
     font-size: 14pt;
 }
+
+.recipeBody {
+    background-image: url(images/spiralBackground.png);
+}
