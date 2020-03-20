@@ -4,5 +4,6 @@ p {
 
 .recipeBody {
     background-image: url(images/spiralBackground.png);
+    background-repeat: no-repeat;
     margin-left: 110px;
 }
